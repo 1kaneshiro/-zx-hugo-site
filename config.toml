@@ -1,7 +1,7 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://1kaneshiro.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Twenty Percent"                        # site title                     # 网站标题
+title = "无尽光芒"                        # site title                     # 网站标题
 theme = "zozo"
 hasCJKLanguage = true                  # has chinese/japanese/korean ?  # 自动检测是否包含 中文\日文\韩文
 summaryLength = 100
