@@ -9,6 +9,7 @@ paginate = 4                           # shows the number of articles   # 首页
 enableEmoji = true
 googleAnalytics = ""                   # your google analytics id       # Google统计代码
 disqusShortname = ""                   # your discuss shortname         # Disqus评论系统代码
+publishDir = "docs"
 
 pygmentsUseClasses = true
 pygmentCodeFences = true
@@ -73,4 +74,3 @@ pygmentscodefencesguesssyntax = true
 [markup.goldmark]
 [markup.goldmark.renderer]
   unsafe = true
-publishDir = docs
