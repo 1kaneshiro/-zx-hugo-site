@@ -1,6 +1,6 @@
 ---
-title: "Test"
-date: 2021-12-26T16:23:21Z
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 hidden: false
 draft: true
 tags: []
