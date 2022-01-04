@@ -18,12 +18,15 @@ slug: ""
 
 # 写在2022的开始
 记录一下2021发生的一些事情，琐碎但是又挺有意义的事情还是挺多的。以后慢慢补充，今天先开个坑  
-  
+
+<img src="20220101.jpg" style="width:40%;position:relative;left:30%" alt=""/> 
+ 
 ## 2021的最后一个夜晚
 <img src="20211231.jpg" style="width:40%;position:relative;left:30%" alt=""/>  
 
 ## 2021年12月30日滑雪
-<img src="./20211230.jpg" style="width:40%;position:relative;left:30%" alt=""/>  
+独自坐缆车上南山顶的高级道，很有感觉，虽然到此刻我的屁股还是疼的  
 
-独自坐缆车上南山顶的高级道，很有感觉，虽然到此刻我的屁股还是疼的
+<img src="20211230.jpg" style="width:40%;position:relative;left:30%" alt=""/>  
+
 
