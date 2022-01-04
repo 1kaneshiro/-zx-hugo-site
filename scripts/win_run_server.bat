@@ -1,0 +1,1 @@
+docker run --name my-hugo -v D:\Coding\hugo-site:/src -p 1313:1313 --rm -it klakegg/hugo server
