@@ -1,6 +1,6 @@
 ---
 title: "感冒了写点"
-date: 2022-01-09T22:36:00Z
+date: 2022-01-09T22:36:00+08:00
 hidden: false
 draft: false
 tags: ["瞎写写"]
