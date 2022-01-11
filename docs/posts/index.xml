@@ -6,22 +6,31 @@
     <description>Recent content in Posts on 圈地自言</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jan 2022 22:36:00 +0800</lastBuildDate><atom:link href="https://1kaneshiro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 17:15:00 +0800</lastBuildDate><atom:link href="https://1kaneshiro.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常用linux命令</title>
+      <link>https://1kaneshiro.github.io/posts/20220111-%E5%B8%B8%E7%94%A8linux%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Tue, 11 Jan 2022 17:15:00 +0800</pubDate>
+      
+      <guid>https://1kaneshiro.github.io/posts/20220111-%E5%B8%B8%E7%94%A8linux%E5%91%BD%E4%BB%A4/</guid>
+      <description>ls 查看文件信息 可选参数 -l du 查看文件夹及子文件大小 可选参数 -h human-readable -d depth diplay all or depth directories stat 输出信息比ls命令的输出信息要更详细 包括三个重要时间 Access time(atime): 是指取用文件的时间 常见的操作有：使用vi cat cp或者在这个文件上运用g</description>
+    </item>
+    
     <item>
       <title>感冒了写点</title>
-      <link>https://1kaneshiro.github.io/posts/20220109/</link>
+      <link>https://1kaneshiro.github.io/posts/20220109-%E6%84%9F%E5%86%92%E4%BA%86%E5%86%99%E7%82%B9/</link>
       <pubDate>Sun, 09 Jan 2022 22:36:00 +0800</pubDate>
       
-      <guid>https://1kaneshiro.github.io/posts/20220109/</guid>
-      <description>关于为什么感冒 印象中很久没生过病了，最近疫情又严重得不行，不敢瞎生病啊，我本来就怕生病，凡事养生为主，但凡有益身体的我都会要求自己去做，（说到这还是有点惭愧，近一个季度都熬夜了，真挺伤的），要说和之前</description>
+      <guid>https://1kaneshiro.github.io/posts/20220109-%E6%84%9F%E5%86%92%E4%BA%86%E5%86%99%E7%82%B9/</guid>
+      <description>关于为什么感冒 印象中很久没生过病了，最近疫情又严重得不行，不敢瞎生病啊，我本来就怕生病，凡事养生为主，但凡有益身体的我都会要求自己去做. 说到这还是有点惭愧，近一个季度都熬夜了，真挺伤的 要说和之前一直不</description>
     </item>
     
     <item>
       <title>写在2022的开始</title>
-      <link>https://1kaneshiro.github.io/posts/20220103/</link>
+      <link>https://1kaneshiro.github.io/posts/20220103-%E5%86%99%E5%9C%A82022%E7%9A%84%E5%BC%80%E5%A7%8B/</link>
       <pubDate>Mon, 03 Jan 2022 15:42:32 +0000</pubDate>
       
-      <guid>https://1kaneshiro.github.io/posts/20220103/</guid>
+      <guid>https://1kaneshiro.github.io/posts/20220103-%E5%86%99%E5%9C%A82022%E7%9A%84%E5%BC%80%E5%A7%8B/</guid>
       <description>关于为什么要写博客 其实没太想明白，记录技术遇到的问题和生活吗？ 好像自己看自己写的东西有时候会挺尴尬的，但是有时候又确实想写点什么，记录下来好过冥想，也可以帮助更好的梳理逻辑，锻炼一下表达能力，毕竟我自</description>
     </item>
     

@@ -460,7 +460,7 @@ hr {
 .markdown h4,
 .markdown h5,
 .markdown h6 {
-  margin: 20px 0 20px 0;
+  margin: 40px 0 10px 0;
   color: #000000;
 }
 
@@ -542,15 +542,15 @@ hr {
 .markdown blockquote {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  margin: 2.5em 0;
-  padding: 0 0 0 50px;
+  margin: 0em 0;
+  padding: 0 0 0 15px;
   font-style: italic;
-  color: #555555;
+  color: #969393;
   border-left: none;
 }
 
 .markdown blockquote:before {
-  content: '“';
+  content: '';
   display: block;
   font-family: times, sans-serif;
   font-style: normal;
@@ -566,8 +566,8 @@ hr {
 .markdown b,
 .markdown em {
   padding: 1px 2px;
-  background-color: #fcfcf0;
-  font-weight: normal;
+  background-color: #fcfcfc;
+  font-weight: bold;
 }
 
 .markdown .fancybox {

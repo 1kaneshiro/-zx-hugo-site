@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on 圈地自言</title>
+    <link>https://1kaneshiro.github.io/tags/linux/</link>
+    <description>Recent content in Linux on 圈地自言</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jan 2022 17:15:00 +0800</lastBuildDate><atom:link href="https://1kaneshiro.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常用linux命令</title>
+      <link>https://1kaneshiro.github.io/posts/20220111-%E5%B8%B8%E7%94%A8linux%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Tue, 11 Jan 2022 17:15:00 +0800</pubDate>
+      
+      <guid>https://1kaneshiro.github.io/posts/20220111-%E5%B8%B8%E7%94%A8linux%E5%91%BD%E4%BB%A4/</guid>
+      <description>ls 查看文件信息 可选参数 -l du 查看文件夹及子文件大小 可选参数 -h human-readable -d depth diplay all or depth directories stat 输出信息比ls命令的输出信息要更详细 包括三个重要时间 Access time(atime): 是指取用文件的时间 常见的操作有：使用vi cat cp或者在这个文件上运用g</description>
+    </item>
+    
+  </channel>
+</rss>
