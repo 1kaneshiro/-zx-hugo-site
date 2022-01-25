@@ -8,7 +8,7 @@
 	
 	
 	
-	<title>常用linux命令 ｜ 圈地自言</title>
+	<title>常用Linux/Mac命令 ｜ 圈地自言</title>
 	
     
     
@@ -101,7 +101,7 @@
             <div class="post_page">
                 <div class="post animate__animated animate__fadeInDown">
                     <div class="post_title post_detail_title">
-                        <h2><a href='/posts/20220111-%E5%B8%B8%E7%94%A8linux%E5%91%BD%E4%BB%A4/'>常用linux命令</a></h2>
+                        <h2><a href='/posts/20220111-%E5%B8%B8%E7%94%A8linux%E5%91%BD%E4%BB%A4/'>常用Linux/Mac命令</a></h2>
                         <span class="date">2022.01.11</span>
                     </div>
                     <div class="post_content markdown"><h1 id="ls">ls</h1>
@@ -135,6 +135,16 @@ Access time(atime): 是指取用文件的时间</p>
 </blockquote>
 <p><strong>可选参数</strong><br>
 <code>-x</code> （仅mac下使用）类linux的展示方式</p>
+<h1 id="unzip--unar">unzip / unar</h1>
+<p>unzip不支持自定义指定源文件编码格式，而unar支持指定自定义编码格式</p>
+<blockquote>
+<p>unzip有很多的版本，而适合用在MAC OS上的版本很多不支持指定编码格式。这样就会导致unzip只能使用系统默认编码格式，而windows上压缩时一般采用GBK或者GB2312进行编码，若你的mac的编码格式与zip的不一致则会导致乱码问题。</p>
+</blockquote>
+<p><strong>可选参数</strong><br>
+<code>-e</code> 指定编码方式</p>
+<blockquote>
+<p>unar -e GBK xx中文xx.zip</p>
+</blockquote>
 </div>
                     <div class="post_footer">
                         

@@ -1,5 +1,5 @@
 ---
-title: "常用linux命令"
+title: "常用Linux/Mac命令"
 date: 2022-01-11T17:15:00+08:00
 hidden: false
 draft: false
@@ -38,3 +38,14 @@ Change time(ctime): 文件属性或文件位置改动的时间
 
 **可选参数**  
 ```-x``` （仅mac下使用）类linux的展示方式
+
+# unzip / unar
+unzip不支持自定义指定源文件编码格式，而unar支持指定自定义编码格式
+> unzip有很多的版本，而适合用在MAC OS上的版本很多不支持指定编码格式。这样就会导致unzip只能使用系统默认编码格式，而windows上压缩时一般采用GBK或者GB2312进行编码，若你的mac的编码格式与zip的不一致则会导致乱码问题。  
+
+**可选参数**  
+```-e``` 指定编码方式  
+> unar -e GBK xx中文xx.zip
+
+
+
