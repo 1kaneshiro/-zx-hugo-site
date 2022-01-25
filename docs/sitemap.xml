@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://1kaneshiro.github.io/posts/20220118-mac%E7%9A%84%E4%B8%80%E4%BA%9B%E9%A1%BA%E6%89%8B%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2022-01-18T20:54:02+08:00</lastmod>
-  </url><url>
     <loc>https://1kaneshiro.github.io/posts/</loc>
-    <lastmod>2022-01-18T20:54:02+08:00</lastmod>
+    <lastmod>2022-01-25T17:16:02+08:00</lastmod>
   </url><url>
     <loc>https://1kaneshiro.github.io/tags/</loc>
-    <lastmod>2022-01-18T20:54:02+08:00</lastmod>
+    <lastmod>2022-01-25T17:16:02+08:00</lastmod>
   </url><url>
     <loc>https://1kaneshiro.github.io/</loc>
-    <lastmod>2022-01-18T20:54:02+08:00</lastmod>
+    <lastmod>2022-01-25T17:16:02+08:00</lastmod>
+  </url><url>
+    <loc>https://1kaneshiro.github.io/posts/20220125-%E5%B0%8F%E7%B1%B3%E7%B3%BB%E4%BA%A7%E5%93%81%E9%A2%84%E8%A3%85%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%8D%B8%E8%BD%BD/</loc>
+    <lastmod>2022-01-25T17:16:02+08:00</lastmod>
   </url><url>
     <loc>https://1kaneshiro.github.io/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2022-01-25T17:16:02+08:00</lastmod>
+  </url><url>
+    <loc>https://1kaneshiro.github.io/posts/20220118-mac%E7%9A%84%E4%B8%80%E4%BA%9B%E9%A1%BA%E6%89%8B%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2022-01-18T20:54:02+08:00</lastmod>
   </url><url>
     <loc>https://1kaneshiro.github.io/tags/linux/</loc>
