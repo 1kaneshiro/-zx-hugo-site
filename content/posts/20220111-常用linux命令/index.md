@@ -47,5 +47,19 @@ unzip不支持自定义指定源文件编码格式，而unar支持指定自定�
 ```-e``` 指定编码方式  
 > unar -e GBK xx中文xx.zip
 
+# find
+和locate区别  
+> locate 命令维护了一份文件和目录的数据库，所以检索速度会快一些，数据库通常一天更新一次，可以手动更新数据库
+
+配合xargs使用 
+> Unix 文件系统的文件可以包含空白和新行，这个默认的行为可能造成一些问题，包含空白的文件名可能被 xargs 错误读取。在这个情况下，最好是使用 -0 选项，在使用这个选项之前，同样要保证输出的结果同样是 null 字符分割的字符串，比如 GNU 下 find 命令的 -print0 选项。
+
+**示例**
+```find -name "query"   # 搜索文件名，大小写敏感  
+find -iname "query"  # 大小写不敏感  
+find -not -name "query"  # 查找不包含关键字的文件  
+find /tmp -name core -type f -print0 | xargs -0 /bin/rm -f    # name 可以包含空白  type指明类型为f 文件  
+find /tmp -depth -name core type f -delete # or not use xargs
+```
 
 
