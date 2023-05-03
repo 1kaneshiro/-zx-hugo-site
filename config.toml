@@ -44,7 +44,7 @@ pygmentscodefencesguesssyntax = true
 
 
 [params]
-  subTitle = "争取多些记录"                                       # site's subTitle              # 网站二级标题
+  subTitle = "记录我的局限与浅薄"                                       # site's subTitle              # 网站二级标题
   footerSlogan = "Getting Things Done"                                   # site's footer slogan         # 网站页脚标语
   keywords = ["blog"]                                   # site's keywords              # 网站关键字
   description = "zzx's blog."                        # site's description           # 网站描述
