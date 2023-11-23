@@ -1,5 +1,5 @@
 ---
-title: "文艺复兴"
+title: "摘抄"
 date: 2023-03-05T14:57:32+0800
 hidden: true
 draft: true
